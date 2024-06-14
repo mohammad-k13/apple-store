@@ -9,6 +9,7 @@ function App() {
 		<Hero />
 		<Highlights />
 		<Model />
+
 	</main>
 }
 
